@@ -1,3 +1,14 @@
-title: Berke Aktaş
 show_downloads: false
 theme: jeckyll-theme-minimal
+
+author:
+  title: Berke Aktaş
+
+links:
+  - label: "Linkedin"
+    icon: "fab fa-linkedin"
+    url: "linkedin.com/in/berke-aktaş-04b9071bb"
+
+  - label: "GitHub"
+    icon: "fab fa-github"
+    url: "https://github.com/ghTaipan"
