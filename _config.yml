@@ -1,5 +1,7 @@
 show_downloads: false
-remote_theme: mmistakes/minimal-mistakes@4.27.3
+remote_theme: mmistakes/minimal-mistakes@v4.27.3
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 author:
   title: Berke Aktaş
