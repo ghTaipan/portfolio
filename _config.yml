@@ -1,5 +1,5 @@
 title: "Taipan's Blog"
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "dark"
 show_downloads: false
 
