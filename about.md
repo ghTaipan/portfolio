@@ -1,11 +1,14 @@
+---
 title: About
 layout: single
 permalink: /about/
+---
 
-# Gameplay Programmer
+### Who am I?
+I’m a gameplay programmer focused on Unreal Engine and C++, but I’m not limited to them. I enjoy learning new languages, exploring low-level systems, and improving my understanding of how things work under the hood.
 
-### About
-Gameplay Programmer specializing in Unreal Engine and C++, with experience developing action-focused combat systems, scalable AI, and data-driven gameplay tools. Delivered production-ready features by owning systems from prototype to final implementation, optimizing code, and improving responsiveness, clarity, and designer workflow. Strong problem-solving mindset supported by rapid prototyping, technical iteration, and close collaboration with designers and engineers to create reliable systems that enhance the player experience.
+### Why Game Industry
+I love games that leave a lasting impression through their gameplay, stories, and art. I want to contribute to creating more experiences like that.
 
 ### Education
 **Bachelor’s Degree in Computer Engineering**  
@@ -29,7 +32,7 @@ Tekden Studio
 - Created all Gameplay Cue Notifies in the project to improve combat feedback and timing clarity.
 - Collaborated with gameplay, AI, quest, and UI developers, as well as artists and designers, in an agile workflow, taking responsibility for iterating rapidly on combat, AI, and gameplay systems based on design feedback and playtesting to ensure features were intuitive, responsive, and contributed positively to the player experience.
 
-**Gameplay Programmer Intern **  
+**Gameplay Programmer Intern**  
 Stratera Games
 *2022 – 2022*
 - Developed a 2D spaceship game individually in Unity C#, sharing progress and receiving feedback during supervised team meetings with a senior developer.

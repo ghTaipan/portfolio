@@ -1,16 +1,16 @@
+title: "Taipan's Blog"
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark"
 show_downloads: false
-remote_theme: mmistakes/minimal-mistakes@4.21.1
-plugins:
-- jekyll-remote-theme
 
 author:
-  title: Berke Aktaş
-
-links:
-  - label: "Linkedin"
-    icon: "fab fa-linkedin"
-    url: "linkedin.com/in/berke-aktaş-04b9071bb"
-
-  - label: "GitHub"
-    icon: "fab fa-github"
-    url: "https://github.com/ghTaipan"
+  name: "Berke Aktaş"
+  bio: "Sailing the Seven Seas of programming."
+  avatar: "/assets/images/avatar.png"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/ghTaipan"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/berke-aktaş-04b9071bb"
