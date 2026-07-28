@@ -16,6 +16,15 @@ I love games that leave a lasting impression through their gameplay, stories, an
 *2018 – 2024*
 
 ### Work Experience
+**Gameplay Programmer**  
+The Dark West  
+*2026 – 2026*
+- Engineered and optimized core mechanics using the Gameplay Ability System, including a custom Ability Queue System and ARPG-style floating combat text.
+- Debugged and refactored complex ability systems, heavily integrating Gameplay Tags to enforce robust gameplay logic and state boundaries.
+- Developed comprehensive front-end systems (character panels, dynamic buff/debuffs, scalable options menu, etc.). Integrated HUD VFX and custom UI animations (level up, notifications, etc.).
+- Integrated Wwise audio events seamlessly across core gameplay mechanics and UI elements.
+- Integrated the Asset Manager for optimized resource loading and unloading.
+
 **Gameplay & AI Programmer**  
 Tekden Studio  
 *2024 – 2025*
@@ -33,7 +42,7 @@ Tekden Studio
 - Collaborated with gameplay, AI, quest, and UI developers, as well as artists and designers, in an agile workflow, taking responsibility for iterating rapidly on combat, AI, and gameplay systems based on design feedback and playtesting to ensure features were intuitive, responsive, and contributed positively to the player experience.
 
 **Gameplay Programmer Intern**  
-Stratera Games
+Stratera Games  
 *2022 – 2022*
 - Developed a 2D spaceship game individually in Unity C#, sharing progress and receiving feedback during supervised team meetings with a senior developer.
 - Used GitHub for version control, managing commits, code reviews, and coordination with other interns.
