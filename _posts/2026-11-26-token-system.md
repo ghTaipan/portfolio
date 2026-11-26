@@ -17,7 +17,7 @@ tags:
 In game development, token systems are widely used to coordinate NPC behaviors by assigning them explicit jobs (tokens) rather than letting every agent act independently.
 With **Token System (NPC Manager)**, I built a high-performance, generic framework that lets developers orchestrate any group of actors or objects through dynamic token and task distribution.
 
-![Token System (NPC Manager)]({{ '/assets/images/TokenSystem_Thumbnail.png' | relative_url }})
+![Token System (NPC Manager)]({{ '/assets/images/TokenSystem_Thumbnail.png' | relative_url }}){: width="60%" }
 
 ## Key Features
 
