@@ -13,6 +13,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/ghTaipan"
+      baseurl: "/portflolio"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://linkedin.com/in/berke-aktaş-04b9071bb"
