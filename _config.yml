@@ -1,7 +1,13 @@
 title: "Taipan's Blog"
+
+url: "https://ghtaipan.github.io"
+baseurl: "/portflolio"
+
 remote_theme: mmistakes/minimal-mistakes
+
 plugins:
   - jekyll-include-cache
+
 minimal_mistakes_skin: "dark"
 show_downloads: false
 
@@ -13,7 +19,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/ghTaipan"
-      baseurl: "/portflolio"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://linkedin.com/in/berke-aktaş-04b9071bb"
