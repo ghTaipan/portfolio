@@ -13,7 +13,7 @@ show_downloads: false
 
 author:
   name: "Berke Aktaş"
-  bio: "Gameplay Programmer & Gamer."
+  bio: "Gameplay Programmer & Gamer"
   avatar: "/assets/images/avatar.png"
   links:
     - label: "GitHub"
