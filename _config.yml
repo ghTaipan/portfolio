@@ -1,7 +1,7 @@
 title: "Taipan's Blog"
 
 url: "https://ghtaipan.github.io"
-baseurl: "/portflolio"
+baseurl: "/portfolio"
 
 remote_theme: mmistakes/minimal-mistakes
 
@@ -21,4 +21,4 @@ author:
       url: "https://github.com/ghTaipan"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/berke-aktaş-04b9071bb"
+      url: "https://linkedin.com/in/berke-aktas-04b9071bb"
