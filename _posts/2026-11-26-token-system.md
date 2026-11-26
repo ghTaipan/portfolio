@@ -1,6 +1,9 @@
 ---
 title: "Token System (NPC Manager)"
 excerpt: "A data-oriented Unreal Engine C++ & Blueprint plugin for coordinating NPCs and gameplay objects through dynamic token and task allocation."
+layout: single
+author_profile: true
+classes: wide
 categories:
   - Unreal Engine
   - Plugins
@@ -12,14 +15,12 @@ tags:
   - Combat Systems
 ---
 
-<div markdown="1" style="text-align: center;">
-
 ## Overview
 
 In game development, token systems are widely used to coordinate NPC behaviors by assigning them explicit jobs (tokens) rather than letting every agent act independently.
 With **Token System (NPC Manager)**, I built a high-performance, generic framework that lets developers orchestrate any group of actors or objects through dynamic token and task distribution.
 
-<img src="{{ '/assets/images/TokenSystem_Thumbnail.png' | relative_url }}" alt="Token System (NPC Manager)" style="display: block; margin: 1.5rem auto; width: 60%; height: auto;">
+<img src="{{ '/assets/images/TokenSystem_Thumbnail.png' | relative_url }}" alt="Token System (NPC Manager)" style="margin: 1.5rem 0; width: 75%; height: auto;">
 
 ## Key Features
 
@@ -32,6 +33,3 @@ With **Token System (NPC Manager)**, I built a high-performance, generic framewo
 - **Source Subscriber Stealing:** Allow higher-priority sources to dynamically steal subscribers from other sources when demand shifts.
 - **Runtime Customization:** Modify how tokens and tasks are evaluated and distributed—or adjust available instance counts—dynamically at runtime.
 - **Data Asset & GameplayTag Driven:** Configure tokens and tasks via Data Assets for rapid iteration and integrate cleanly with existing systems using `GameplayTags`.
-{: style="list-style-position: inside; padding-left: 0;" }
-
-</div>
