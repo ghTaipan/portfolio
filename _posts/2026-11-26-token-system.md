@@ -2,7 +2,7 @@
 title: "Token System (NPC Manager)"
 excerpt: "A data-oriented Unreal Engine C++ & Blueprint plugin for coordinating NPCs and gameplay objects through dynamic token and task allocation."
 header:
-  teaser: /portfolio/assets/images/TokenSystemPlugin_Thumbnail.png
+  teaser: /assets/images/TokenSystemPlugin_Thumbnail.png
 categories:
   - Unreal Engine
   - Plugins
